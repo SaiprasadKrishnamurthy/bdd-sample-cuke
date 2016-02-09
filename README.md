@@ -1,4 +1,4 @@
-# a simple BDD skeleton using cucumber (no test implementations)
+# A simple BDD skeleton using cucumber (no test implementations)
 
 ## Objective ##
 The intent is to get the idea of what BDD is and what cucumber can do.
